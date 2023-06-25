@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+
+* {
+  text-align: center;
+  font-family: 'Alata', sans-serif;
+  background-color: rgb(241, 240, 240);
+  color: rgb(20, 38, 110);
+}
+
+.userinfo{
+  padding: 10%;
+}
+
+.variable{
+  color: rgb(59, 141, 0);
+  font-weight: 600;
+}
